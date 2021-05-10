@@ -1,4 +1,4 @@
-# RH 1040NR Schedule NEC Table
+# RH 1040NR Schedule NEC Table generator
 
 ## Usage
 
